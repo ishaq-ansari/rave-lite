@@ -26,9 +26,7 @@ SyncTogether Lite is a lightweight application that allows users to create or jo
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/vidsync-hub.git
+git clone https://github.com/yourusername/SyncTogether-Lite.git
 cd vidsync-hub
-# SyncTube-lite
 # SyncTogether-Lite
-# SyncTogether-Lite
-# SyncTogether-Lite
+```
